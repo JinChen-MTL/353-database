@@ -1,0 +1,1 @@
+{"version":"1.0","connections":[{"details":{"protocol":"mysql","address":{"server":"localhost3306.mysql.database.azure.com","database":"353projj"}},"options":{"ReturnSingleDatabase":true}}]}
